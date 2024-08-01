@@ -1,0 +1,14 @@
+{
+  "name": "rishabh-munjal-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Rishabh Munjal",
+  "scripts": {
+    "start": "serve ."
+  },
+
+
+
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
